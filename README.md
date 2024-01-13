@@ -1,5 +1,5 @@
-# Official Implementation of AAAI'24 paper "Dirichlet-Based Prediction Calibration for Learning with Noisy Labels"
-
+# [AAAI24] Dirichlet-Based Prediction Calibration for Learning with Noisy Labels（DPC）
+by **Chen-Chen Zong, Ye-Wen Wang, Ming-Kun Xie, Sheng-Jun Huang**
 ## Usage
 
 Train the network on the Symmmetric Noise CIFAR dataset (noise rate = 0.2):
