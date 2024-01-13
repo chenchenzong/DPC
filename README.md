@@ -1,4 +1,4 @@
-# Official Implementation of AAAI'24 paper "Dirichlet-Based Prediction Calibration for Learning with Noisy Labels"
+# Official Implementation of AAAI'24 paper "Dirichlet-Based Prediction Calibration for Learning with Noisy Labels" [Main paper]([http://www.google.com/](https://github.com/chenchenzong/DPC/blob/main/AAAI2024_DPC_appendix.pdf)) [Appendix]([http://www.google.com/](https://github.com/chenchenzong/DPC/blob/main/AAAI2024_DPC_appendix.pdf))
 by **Chen-Chen Zong, Ye-Wen Wang, Ming-Kun Xie, Sheng-Jun Huang**
 ## Usage
 
