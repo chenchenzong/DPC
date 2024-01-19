@@ -9,4 +9,17 @@ by **Chen-Chen Zong, Ye-Wen Wang, Ming-Kun Xie, Sheng-Jun Huang**
 Learning with noisy labels can significantly hinder the generalization performance of deep neural networks (DNNs). Existing approaches address this issue through loss correction or example selection methods. However, these methods often rely on the model's predictions obtained from the softmax function, which can be over-confident and unreliable. In this study, we identify the translation invariance of the softmax function as the underlying cause of this problem and propose the *Dirichlet-based Prediction Calibration* (DPC) method as a solution. Our method introduces a calibrated softmax function that breaks the translation invariance by incorporating a suitable constant in the exponent term, enabling more reliable model predictions. To ensure stable model training, we leverage a Dirichlet distribution to assign probabilities to predicted labels and introduce a novel evidence deep learning (EDL) loss. The proposed loss function encourages positive and sufficiently large logits for the given label, while penalizing negative and small logits for other labels, leading to more distinct logits and facilitating better example selection based on a large-margin criterion. Through extensive experiments on diverse benchmark datasets, we demonstrate that DPC achieves state-of-the-art performance.
 
 
+## Citation
 
+If you find this repo useful for your research, please consider citing the paper.
+
+```bibtex
+@misc{zong2024dirichletbased,
+      title={Dirichlet-Based Prediction Calibration for Learning with Noisy Labels}, 
+      author={Chen-Chen Zong and Ye-Wen Wang and Ming-Kun Xie and Sheng-Jun Huang},
+      year={2024},
+      eprint={2401.07062},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
