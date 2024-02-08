@@ -219,7 +219,7 @@ def eval_train(model):
 
     input_margin = margins.reshape(-1,1)
     gmm = GaussianMixture(n_components=2,max_iter=10,tol=1e-2,reg_covar=5e-4)
-    gmm.fit(input_loss)
+    gmm.fit(input_margin)
     prob = gmm.predict_proba(input_margin) 
     prob1 = prob[:,gmm.means_.argmax()]   
 
