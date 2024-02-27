@@ -23,3 +23,6 @@ If you find this repo useful for your research, please consider citing the paper
       primaryClass={cs.LG}
 }
 ```
+## Acknowledgement
+
+This code inherits some codes from [DivideMix](https://github.com/LiJunnan1992/DivideMix)
