@@ -25,4 +25,4 @@ If you find this repo useful for your research, please consider citing the paper
 ```
 ## Acknowledgement
 
-This code inherits some codes from [DivideMix](https://github.com/LiJunnan1992/DivideMix)
+Thanks to Li et al. for publishing their code for [DivideMix](https://github.com/LiJunnan1992/DivideMix). Our implementation is heavily based on their work.
