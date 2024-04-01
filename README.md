@@ -2,7 +2,7 @@
 
 by **Chen-Chen Zong, Ye-Wen Wang, Ming-Kun Xie, Sheng-Jun Huang**
 
-[[Main paper]](https://arxiv.org/pdf/2401.07062.pdf) [[Appendix]](https://github.com/chenchenzong/DPC/blob/main/AAAI2024_DPC_appendix.pdf) [[Code]](https://github.com/chenchenzong/DPC/blob/main/AAAI2024_DPC_code/README.md)
+[[Main paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29672) [[Appendix]](https://github.com/chenchenzong/DPC/blob/main/AAAI2024_DPC_appendix.pdf) [[Code]](https://github.com/chenchenzong/DPC/blob/main/AAAI2024_DPC_code/README.md)
 
 ## Abstract
 
