@@ -14,13 +14,14 @@ Learning with noisy labels can significantly hinder the generalization performan
 If you find this repo useful for your research, please consider citing the paper.
 
 ```bibtex
-@misc{zong2024dirichletbased,
-      title={Dirichlet-Based Prediction Calibration for Learning with Noisy Labels}, 
-      author={Chen-Chen Zong and Ye-Wen Wang and Ming-Kun Xie and Sheng-Jun Huang},
-      year={2024},
-      eprint={2401.07062},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@inproceedings{zong2024dirichlet,
+  title={Dirichlet-Based Prediction Calibration for Learning with Noisy Labels},
+  author={Zong, Chen-Chen and Wang, Ye-Wen and Xie, Ming-Kun and Huang, Sheng-Jun},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={15},
+  pages={17254--17262},
+  year={2024}
 }
 ```
 ## Acknowledgement
